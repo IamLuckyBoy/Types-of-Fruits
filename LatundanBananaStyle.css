@@ -1,0 +1,28 @@
+body{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/bd/Ripe_latundan_bananas.jpg");
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	color: yellow;
+	text-decoration: underline;
+}
+
+h3{
+	color: green;
+}
+
+p{
+	color: white;
+}
+
+a{
+	color: pink;
+}
+
+a:hover{
+ color:blue;
+}

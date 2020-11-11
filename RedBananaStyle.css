@@ -1,0 +1,27 @@
+body{
+	background-image: url("https://philnews.ph/wp-content/uploads/2017/02/Red-Banana-1200x900.jpg");
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	color: green;
+	text-decoration: underline;
+}
+
+h3{
+	color:indigo;
+}
+
+p{
+	color:green;
+}
+
+a{
+	color: green;
+}
+
+a:hover{
+ color:blue;
+}

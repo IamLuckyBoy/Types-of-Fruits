@@ -1,0 +1,42 @@
+body {
+	background-image: url("https://media.istockphoto.com/photos/frits-concept-of-pineapple-and-mango-fruits-with-copy-space-on-white-picture-id1007108098");
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img{
+	transition: all 1s;
+}
+
+img:hover{
+	transform: scale(1.1);
+}
+
+a{
+	color: grey;
+}
+h1 {
+	color: red;
+	text-decoration: underline;
+}
+
+p {
+font-size: 16;
+font-family: "Segoe Print";	
+color: green;
+font-weight: bold;
+}
+
+h2{
+	color: red;
+}
+
+li{
+	color: orange;
+}
+
+a:hover{
+ color:blue;
+}
